@@ -1,4 +1,4 @@
-# AirCnC
+# Spot Manager
 
 > Plataforma de agendamento de _spots_ entre empresas e desenvolvedores, com foco em networking.
 
@@ -23,7 +23,7 @@
 
 ## 1. Visão Geral
 
-O **AirCnC** é um projeto _full stack_ desenvolvido com o objetivo de colocar em
+O **Spot Manager** é um projeto _full stack_ desenvolvido com o objetivo de colocar em
 prática conhecimentos de arquitetura e desenvolvimento de sistemas.
 
 A plataforma conecta **empresas** e **desenvolvedores** por meio de um sistema de
