@@ -266,11 +266,18 @@ _Draw.io Integration_. O arquivo tem **duas páginas**:
 - **Diagrama de classe** — entidades e relacionamentos (seção 8).
 - **Notificações — Arquitetura** — arquitetura do módulo de notificações (seção 12).
 
+![Diagrama de classe](./docs/diagram-classes.png)
+
+> As imagens em `docs/` são exportadas de `diagram.drawio`. Ao alterar o
+> diagrama, reexporte as duas páginas para manter o README atualizado.
+
 ## 12. Módulo de Notificações (WebSocket)
 
 Notificações em tempo real para os eventos de agendamento, entregues por
 **WebSocket** (sobre STOMP, padrão no Spring Boot). A arquitetura está na página
 _"Notificações — Arquitetura"_ do `diagram.drawio`.
+
+![Módulo de Notificações — Arquitetura](./docs/diagram-notifications.png)
 
 ### Como funciona
 
